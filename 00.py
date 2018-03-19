@@ -4,7 +4,7 @@ import math
 import pyperclip
 
 def main():
-    myMessage = 'htule llema irone rongt'
+    myMessage = 'hllminrgtelareotu e o n'
     myKey = 8
 
     plaintext = decryptMessage(myKey, myMessage)
